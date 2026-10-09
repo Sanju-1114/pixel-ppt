@@ -1,0 +1,270 @@
+node_modules
+.DS_Store
+dist
+dist-ssr
+*.local
+.env
+.nitro
+.tanstack
+.wrangler
+.output
+.vinxi
+__unconfig*
+todos.json
+
+/src/generated/prisma
+
+
+
+# ============================================================
+# Dependencies
+# ============================================================
+node_modules/
+.pnp/
+.pnp.js
+
+# ============================================================
+# Environment & secrets
+# ============================================================
+.env
+.env.*
+!.env.example
+!.env.template
+!.env.sample
+
+# Local certificates / keys
+*.pem
+*.key
+*.crt
+*.p12
+*.pfx
+*.jks
+
+# ============================================================
+# Build / production output
+# ============================================================
+dist/
+build/
+out/
+.output/
+.vercel/
+.netlify/
+.next/
+.nuxt/
+.svelte-kit/
+
+# ============================================================
+# Vite / TanStack / framework caches
+# ============================================================
+.vite/
+.tanstack/
+.turbo/
+.cache/
+.parcel-cache/
+.eslintcache/
+.stylelintcache/
+
+# ============================================================
+# Prisma generated client
+# Keep prisma/schema.prisma and prisma/migrations/ tracked.
+# ============================================================
+src/generated/prisma/
+generated/prisma/
+
+# Prisma local/runtime files
+*.db
+*.db-journal
+*.db-shm
+*.db-wal
+
+# ============================================================
+# Logs
+# ============================================================
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+*.pid
+*.pid.lock
+
+# ============================================================
+# Temporary / backup files
+# ============================================================
+tmp/
+temp/
+.tmp/
+*.tmp
+*.temp
+*.bak
+*.backup
+*~
+*.swp
+*.swo
+
+# ============================================================
+# Package manager temporary files
+# Keep package.json and lockfiles tracked.
+# ============================================================
+.npm/
+.yarn/cache/
+.yarn/unplugged/
+.yarn/install-state.gz
+.yarn/build-state.yml
+.pnpm-store/
+
+# ============================================================
+# OS files
+# ============================================================
+.DS_Store
+.DS_Store?
+.AppleDouble
+.LSOverride
+._*
+.Spotlight-V100
+.Trashes
+Thumbs.db
+Thumbs.db:encryptable
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# ============================================================
+# Windows / macOS / Linux local files
+# ============================================================
+*.lnk
+.directory
+
+# ============================================================
+# IDE / editor settings
+# ============================================================
+.vscode/*
+!.vscode/extensions.json
+!.vscode/settings.example.json
+.idea/
+*.iml
+*.iws
+*.ipr
+.vs/
+*.code-workspace
+
+# ============================================================
+# AI coding assistant local files
+# These are generally machine/editor-specific.
+# ============================================================
+.claude/
+.windsurf/
+.cursor/
+.copilot/
+.aider*
+.agents/
+
+# ============================================================
+# Test / coverage output
+# ============================================================
+coverage/
+.nyc_output/
+.junit/
+test-results/
+playwright-report/
+blob-report/
+playwright/.cache/
+
+# ============================================================
+# TypeScript / tooling caches
+# ============================================================
+*.tsbuildinfo
+*.eslintcache
+
+# ============================================================
+# Generated route / framework artifacts
+# Uncomment only if these files are generated automatically
+# and you do NOT want them version-controlled.
+# ============================================================
+# src/routeTree.gen.ts
+
+# ============================================================
+# Local deployment / hosting files
+# ============================================================
+.vercel/
+.netlify/
+
+# ============================================================
+# Local database / database dumps
+# ============================================================
+*.sqlite
+*.sqlite3
+*.sql.gz
+*.dump
+
+# ============================================================
+# Uploaded/local user data
+# ============================================================
+uploads/
+upload/
+storage/
+*.local
+
+# ============================================================
+# Generated documentation / reports
+# ============================================================
+*.generated.*
+*.report
+*.report.json
+
+# ============================================================
+# Backup package files
+# ============================================================
+package-lock.backup.json
+yarn.lock.backup
+pnpm-lock.yaml.backup
+
+# ============================================================
+# Local secrets/config files
+# ============================================================
+*.secret
+*.secrets
+*.local.json
+*.local.yaml
+*.local.yml
+
+# ============================================================
+# Python artifacts (if scripts/tools are added later)
+# ============================================================
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+env/
+ENV/
+.pytest_cache/
+.mypy_cache/
+
+# ============================================================
+# Java / JVM artifacts (if added later)
+# ============================================================
+*.class
+target/
+.gradle/
+build/
+
+# ============================================================
+# Generic generated artifacts
+# ============================================================
+*.cache
+*.pid
+*.seed
+*.tgz
+*.zip
+*.tar
+*.gz
+
+# ============================================================
+# Keep important project files tracked
+# ============================================================
+!.env.example
+!.env.template
+!.env.sample
