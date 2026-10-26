@@ -18,6 +18,8 @@ To build this application for production:
 npm run build
 ```
 
+---
+
 ## Styling
 
 This project uses [Tailwind CSS](https://tailwindcss.com/) for styling.
