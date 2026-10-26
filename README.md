@@ -24,6 +24,8 @@ npm run build
 
 This project uses [Tailwind CSS](https://tailwindcss.com/) for styling.
 
+---
+
 ### Removing Tailwind CSS
 
 If you prefer not to use Tailwind CSS:
