@@ -140,6 +140,8 @@ export const Route = createRootRoute({
 
 More information on layouts can be found in the [Layouts documentation](https://tanstack.com/router/latest/docs/framework/react/guide/routing-concepts#layouts).
 
+---
+
 ## Server Functions
 
 TanStack Start provides server functions that allow you to write server-side code that seamlessly integrates with your client components.
