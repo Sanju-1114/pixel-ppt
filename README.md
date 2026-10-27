@@ -79,6 +79,8 @@ TanStack will automatically generate the content of the route file for you.
 
 Now that you have two routes you can use a `Link` component to navigate between them.
 
+--
+
 ### Adding Links
 
 To use SPA (Single Page Application) navigation you will need to import the `Link` component from `@tanstack/react-router`.
