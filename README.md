@@ -48,6 +48,7 @@ npm run format
 npm run check
 ```
 
+---
 
 ## Deploy with Nitro
 
