@@ -63,7 +63,7 @@ The build output is a self-contained Node server. To deploy, push the `dist/` di
 
 For host-specific presets (Vercel, Netlify, Cloudflare, AWS Lambda, etc.) and tuning, see https://v3.nitro.build/deploy.
 
-
+---
 
 ## Routing
 
