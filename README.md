@@ -186,6 +186,8 @@ export const Route = createFileRoute('/api/hello')({
 })
 ```
 
+---
+
 ## Data Fetching
 
 There are multiple ways to fetch data in your application. You can use TanStack Query to fetch data from a server. But you can also use the `loader` functionality built into TanStack Router to load the data for a route before it's rendered.
