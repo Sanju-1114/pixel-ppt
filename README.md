@@ -79,7 +79,7 @@ TanStack will automatically generate the content of the route file for you.
 
 Now that you have two routes you can use a `Link` component to navigate between them.
 
---
+---
 
 ### Adding Links
 
