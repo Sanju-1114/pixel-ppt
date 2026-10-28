@@ -167,6 +167,8 @@ function MyComponent() {
 }
 ```
 
+---
+
 ## API Routes
 
 You can create API routes by using the `server` property in your route definitions:
